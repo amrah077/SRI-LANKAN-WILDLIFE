@@ -1,7 +1,7 @@
 /*Styling common to all pages*/
 
 body,footer{
-  background-image: url(./bg4.jpg);
+  background-image: url(./IMAGES/bg4.jpg);
   background-size: cover;
 }
 .bluebox{
@@ -113,18 +113,18 @@ margin-left:10pt ;
 }
 
 .opacity{
-  background-image: url(./bluewaterlily.jpg);
+  background-image: url(./IMAGES/bluewaterlily.jpg);
   background-size: cover;
   opacity: 0.85;
 }  /*Creates a background for the section with a faded effect*/
 
 .opacity2{
-  background-image: url(./bluewhalesrilanka.jpg);
+  background-image: url(./IMAGES/bluewhalesrilanka.jpg);
   background-size: cover;
   opacity: 0.85;
 }  /*Creates a background for the section with a faded effect*/
 .opacity3{
-  background-image: url(./conservation.jpg);
+  background-image: url(./IMAGES/conservation.jpg);
   background-size: cover;
   opacity: 0.85;
 }  /*Creates a background for the section with a faded effect*/
